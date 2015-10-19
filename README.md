@@ -8,7 +8,6 @@
     $ javac ReadFirefoxCookies.java
 
 ## Run the application like this:
-    $ java -classpath ".:lib/sqlite-jdbc-3.8.11.2.jar" ReadFirefoxCookies
     $ java -classpath ".:lib/sqlite-jdbc.jar" ReadFirefoxCookies
 
 
